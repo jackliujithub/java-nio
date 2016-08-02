@@ -12,7 +12,8 @@
 ```
 
 
-#目的：做一个远程方法调用。封装底层网络通信和多线程等技术细节，做到调用远程接口方法，就想调用本地接口方法一样。
+#目的:<br>
+做一个远程方法调用。封装底层网络通信和多线程等技术细节，做到调用远程接口方法，就想调用本地接口方法一样。
 
 #需要做的事情：
 
@@ -44,12 +45,10 @@
  	1、服务端应用kill调，客户端无法感知网络异常（心跳30S检测一次，超过3次，进行重连接）-------完成
 
 rpc:
-理论基础
-http://blog.jobbole.com/92290/
-前辈的知识
-http://my.oschina.net/huangyong/blog/361751
-netty知识
-http://blog.csdn.net/boonya/article/details/43795325?ref=myread
-http://www.infoq.com/cn/articles/netty-million-level-push-service-design-points
+[理论基础](http://blog.jobbole.com/92290/)
+[前辈的知识](http://my.oschina.net/huangyong/blog/361751)
+[netty知识]
+     http://blog.csdn.net/boonya/article/details/43795325?ref=myread
+     http://www.infoq.com/cn/articles/netty-million-level-push-service-design-points
 
 
