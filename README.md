@@ -4,10 +4,10 @@
 
 ```json
 {
-  seq:123456,//序列化
-  param:{}, //参数
-  method:"",//方法
-  className:"" //接口名称
+  "seq":123456,//序列化
+  "param":{}, //参数
+  "method":"",//方法
+  "className":"" //接口名称
 }
 ```
 
