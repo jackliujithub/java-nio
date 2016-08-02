@@ -44,11 +44,11 @@
 问题：
  	1、服务端应用kill调，客户端无法感知网络异常（心跳30S检测一次，超过3次，进行重连接）-------完成
 
-rpc:
-[理论基础](http://blog.jobbole.com/92290/)
-[前辈的知识](http://my.oschina.net/huangyong/blog/361751)
-[netty知识]
-     http://blog.csdn.net/boonya/article/details/43795325?ref=myread
+#参考资料:
+1. [理论基础](http://blog.jobbole.com/92290/)
+1. [前辈的知识](http://my.oschina.net/huangyong/blog/361751)
+1. [netty知识]
+     http://blog.csdn.net/boonya/article/details/43795325?ref=myread <br>
      http://www.infoq.com/cn/articles/netty-million-level-push-service-design-points
 
 
